@@ -6,5 +6,4 @@ https://github.com/chromealex/Unity3d.UI.Windows.Core
 Provides `Ads` service.
 
 Modules:
-
-  UnityAds
+- UnityAds
